@@ -24,5 +24,9 @@ of front-end development.
 
 
 ## Education
-2008-2011 - BSMC (Nurse) 2011-2017 - BSU (Biochemistry) ## Languages Russian - native speaker English - A2 (B1 in
-process…)
+2008-2011 - BSMC (Nurse)
+2011-2017 - BSU (Biochemistry)
+
+## Languages
+Russian - native speaker
+English - A2 (B1 in process)
